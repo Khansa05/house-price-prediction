@@ -19,4 +19,5 @@ This project aims to predict the house prices using a simple linear regression m
    ```bash
    git clone https://github.com/Khansa05/house-price-prediction.git
    cd house-price-prediction
+   ```bash
 2. pip install -r requirements.txt
